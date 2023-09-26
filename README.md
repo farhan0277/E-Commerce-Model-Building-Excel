@@ -12,6 +12,8 @@ Statistical Analysis, Financial modelling, Business Strategy, Data Visualization
 
 Microsoft Excel
 
+Please follow the link to view the model [E-Commerce Store](https://docs.google.com/spreadsheets/d/1QdiWLMmC1x8TVHkGi9NMc0-_nX5ZbFrdRaR0xewCCzk/edit?usp=sharing)
+
 ![Projection of the 3 Year Period for the Store](https://github.com/farhan0277/E-Commerce-Model-Building-Excel/assets/144512640/23c3cb50-88c7-4b55-b9b7-b15bff5c1a0a)
 
 ## Project Overview
@@ -27,4 +29,3 @@ The purpose of this project is to create a profitability model that empowers ABC
 
 - Customize input parameters to simulate different business scenarios and make data-driven decisions.
 
-To check out the model, follow the link [E-Commerce Store](https://docs.google.com/spreadsheets/d/1QdiWLMmC1x8TVHkGi9NMc0-_nX5ZbFrdRaR0xewCCzk/edit?usp=sharing)
