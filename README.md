@@ -11,6 +11,9 @@ Statistical Analysis, Financial modelling, Business Strategy, Data Visualization
 ## Tech-stack
 
 Microsoft Excel
+
+![Projection of the 3 Year Period for the Store](https://github.com/farhan0277/E-Commerce-Model-Building-Excel/assets/144512640/23c3cb50-88c7-4b55-b9b7-b15bff5c1a0a)
+
 ## Project Overview
 
 This is a simple profitability model consisting of several key components and hypothetical input values to execute possible descriptive and predictive analysis
